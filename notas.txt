@@ -1,0 +1,55 @@
+Arquivos alterados para mudar no Embrapa IO:
+mantive o toc antigo no gitlab, não esta sendo usado atualmente.
+o toc do subcapitulo esta pegando os titulos também
+
+
+Fazendo
+Deixar ativo o dropdown e o link do conteúdo no sidebar -- feito, falta sincronizar com a pesquisa e com a navegação inferior
+
+Fazer:
+adicionar o toc original 
+deixar a intro ativa
+sincronizar a pesquisa e a navegação inferior com o capitulo ativo background
+Identidade Visual com a equipe da Embrapa Dourados
+Fazer off-line os aplicativos
+
+
+Especifico Pragas:
+Artrópodes ao invez de Invertebrados
+Remover o botão "Sumário" do menu principal
+
+
+
+Da pra fazer direto no strapi:
+Adicionar a função de cada autor no desenvolvimento do App na seção "Autores"
+Arrumar título dos capítulos
+
+
+
+Feito:
+Este app foi desenvolvido no âmbito do contrato Embrapa/BASF 20900.22/0253-8 (DOU 17/09/2021)
+Aparecer a referência e hiperlink para o manual
+
+add o credito da BASF no lugar que era a apresentação
+Remover a seção de apresentação da página inicial
+Adicionar botão no canto direito para subcapitulos
+
+"Acessar o Manual"
+Alterar 4a Edição Atualizada para Versão 1.0
+Adicionar introdução para quando abrir a página
+corrigir pesquisa no home -- problema no redirecionamento  e no css
+
+corrigir os btns de navegação inferiores
+Ao trocar de collection não entrar no capitulo, só mudar a collection ativa
+
+
+Duvida:
+Adicionar uma nova página "Sobre", na qual iremos indicar as referências das publicações utilizadas - precisa mesmo?
+
+
+
+
+
+
+
+
